@@ -3,12 +3,19 @@
         "id":1,
         "name":"Leysi",
         "edad":40,
-        "sexo":2
+        "sexo":1
     },
     {
         "id":2,
         "name":"Moises",
         "edad":20,
         "sexo":2
+    },
+    {
+        "id":3,
+        "name":"Sebas",
+        "edad":12,
+        "sexo":1
+
     }
 ]
